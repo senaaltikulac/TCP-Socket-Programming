@@ -1,0 +1,6 @@
+C:\Users\senaa\Desktop\VisualStudio\Client\Client\bin\Debug\Client.exe.config
+C:\Users\senaa\Desktop\VisualStudio\Client\Client\bin\Debug\Client.exe
+C:\Users\senaa\Desktop\VisualStudio\Client\Client\bin\Debug\Client.pdb
+C:\Users\senaa\Desktop\VisualStudio\Client\Client\obj\Debug\Client.exe
+C:\Users\senaa\Desktop\VisualStudio\Client\Client\obj\Debug\Client.pdb
+C:\Users\senaa\Desktop\VisualStudio\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
